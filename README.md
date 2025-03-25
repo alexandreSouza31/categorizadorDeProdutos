@@ -17,7 +17,7 @@ Este projeto tem como objetivo agrupar produtos similares de diferentes supermer
 ## Visão geral
 
 ### Mídia 📷
-##### GIF da aplicação
+##### GIF da aplicação - Clique no GIF para dar Play/Pause
 
 ![Image](https://i.imgur.com/iRnBGmB.gif)
 ##### Rota Home 
