@@ -41,7 +41,7 @@ Exibe os resultados de categorização via API em formato JSON
 
 
 ### Estrutura do projeto 📁
-
+```
 ├── data
 │   └── data01.json
 ├── routes 
@@ -56,6 +56,7 @@ Exibe os resultados de categorização via API em formato JSON
 ├── index.js
 ├── README.md
 └── server.js
+```
 
 
 ### Como rodar o código? 🤖
